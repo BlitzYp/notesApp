@@ -1,4 +1,5 @@
 # notesApp
+First you must do npm install to install all the required packages
 
 This is a notes App! To see the commands use node App.js --help!
 
